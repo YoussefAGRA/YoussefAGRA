@@ -31,9 +31,4 @@ I'm a passionate student specializing in **web and mobile application developmen
 - Android App Development
 - Full-Stack Web Development
 
-### ⚡ Fun Fact
-- I'm always excited to learn new technologies and take on challenges that enhance my coding skills!
-
 ---
-
-Thanks for stopping by! 😊 Feel free to check out my repositories and get in touch!
