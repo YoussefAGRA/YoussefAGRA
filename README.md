@@ -7,9 +7,13 @@ I'm a passionate student specializing in **web and mobile application developmen
 ---
 
 ### 🚀 Tech Stack
-- **Languages**: C, C++, Java, JavaScript, HTML, CSS, MySQL
-- **Frameworks & Libraries**: Bootstrap
-- **Tools & Platforms**: Android Studio, Git, GitHub, VS Code
+- **Languages**:
+  (https://skillicons.dev/icons?i=cpp,html,css)
+  C, C++, Java, JavaScript, HTML, CSS, MySQL
+- **Frameworks & Libraries**:
+   Bootstrap
+- **Tools & Platforms**:
+   Android Studio, Git, GitHub, VS Code
 
 ---
 
