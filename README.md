@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm Youssef AGRA !
 
 ### 🌐 Web & Mobile Application Development Student
 
@@ -8,8 +8,7 @@ I'm a passionate student specializing in **web and mobile application developmen
 
 ### 🚀 Tech Stack
 - **Languages**:
-  (https://skillicons.dev/icons?i=cpp,html,css)
-  C, C++, Java, JavaScript, HTML, CSS, MySQL
+  <img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/HTML.svg" width="48"> <img src="./icons/CS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48">
 - **Frameworks & Libraries**:
    Bootstrap
 - **Tools & Platforms**:
