@@ -8,7 +8,7 @@ I'm a passionate student specializing in **web and mobile application developmen
 
 ### 🚀 Tech Stack
 - **Languages**:
-  <img src="./icons/C.svg" width="48"> <img src="./icons/CPP.svg" width="48"> <img src="./icons/HTML.svg" width="48"> <img src="./icons/CS.svg" width="48"> <img src="./icons/JavaScript.svg" width="48">
+  
 - **Frameworks & Libraries**:
    Bootstrap
 - **Tools & Platforms**:
@@ -23,8 +23,8 @@ I'm a passionate student specializing in **web and mobile application developmen
 ---
 
 ### 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yourname@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-a-65248b1b6/)
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefagra3@gmail.com)
 - [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
 
 ---
