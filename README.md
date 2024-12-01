@@ -10,9 +10,9 @@ I'm a passionate student specializing in **web and mobile application developmen
 - **Languages**:
   
 - **Frameworks & Libraries**:
-   Bootstrap
+   
 - **Tools & Platforms**:
-   Android Studio, Git, GitHub, VS Code
+   
 
 ---
 
