@@ -1,14 +1,8 @@
 # 👋 Hello, I'm Youssef AGRA !
 
-### 🌐 Web & Mobile Application Development Student
+### 🎓 Web & Mobile Application Development Student
 
-  🎓 Student in **Web and Mobile Development** | Nador Higher School of Technology
-
-Passionate about technology and innovation, I am currently training in web and mobile development at the École Supérieure de Technologie de Nador. My academic background allows me to acquire solid skills in programming, design, and development of web and mobile applications.
-
-Outside of my studies, I really enjoy reading, which allows me to stay up to date with the latest technological trends and develop critical thinking skills. I am also an avid sportsman, which helps me maintain a good balance between body and mind.
-
-I strongly believe in the power of teamwork and enjoy collaborative projects where I can share my ideas and learn from others. My goal is to continue to develop my technical skills while contributing to innovative and impactful projects.
+  I'm a passionate student specializing in **web and mobile application development**. I love building efficient, scalable, and user-friendly applications using a variety of technologies. 
 
 ---
 
