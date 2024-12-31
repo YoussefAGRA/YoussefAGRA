@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <br>
 
 <a href="https://www.linkedin.com/in/youssef-a-65248b1b6/">
