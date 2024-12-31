@@ -1,40 +1,18 @@
-# 👋 Hello, I'm Youssef AGRA !
+<h1 align="center">Hi 👋, I'm Youssef AGRA</h1>
+<h3 align="center">Web and Mobile Development Application Student.</h3>
 
-### 🌐 Web & Mobile Application Development Student
+- 🚀 Tech Stack **Laravel , Spring , Bootstrap**
 
-I'm a passionate student specializing in **web and mobile application development**. I love building efficient, scalable, and user-friendly applications using a variety of technologies. Currently, I'm honing my skills in both front-end and back-end development.
+- 📫 How to reach me **youssefagra3@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef agra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youssef agra" height="30" width="40" /></a>
+<a href="https://fb.com/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef agra" height="30" width="40" /></a>
+</p>
 
-### 🚀 Tech Stack
-- **Languages**:  <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#394AAB"/>
-<path d="M134.001 33C169.144 33 199.828 52.0863 216.262 80.4561L216.102 80.183L174.753 103.991C166.607 90.1977 151.672 80.8892 134.54 80.6975L134.001 80.6945C107.875 80.6945 86.6945 101.874 86.6945 127.999C86.6945 136.543 88.9723 144.552 92.9335 151.469C101.088 165.704 116.416 175.306 134.001 175.306C151.693 175.306 167.109 165.582 175.222 151.195L175.025 151.54L216.311 175.458C200.057 203.588 169.794 222.615 135.059 222.994L134.001 223C98.746 223 67.9753 203.796 51.582 175.276C43.5791 161.353 39 145.212 39 127.999C39 75.5334 81.5323 33 134.001 33Z" fill="white"/>
-</svg>
-  
-- **Frameworks & Libraries**:
-   
-- **Tools & Platforms**:
-   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
----
-
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 🌐 Connect with Me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-a-65248b1b6/)
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youssefagra3@gmail.com)
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/yourprofile)
-
----
-
-### 🌱 Currently Learning
-- Advanced Java Development
-- Android App Development
-- Full-Stack Web Development
-
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefagra&show_icons=true&locale=en&layout=compact" alt="youssefagra" /></p>
