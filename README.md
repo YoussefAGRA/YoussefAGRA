@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef agra" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youssef agra" height="30" width="40" /></a>
-<a href="https://fb.com/youssef agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef agra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/youssef-a-65248b1b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef agra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/29004267/youssef-agra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="youssef agra" height="30" width="40" /></a>
+<a href="https://web.facebook.com/youssef.agra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef agra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
