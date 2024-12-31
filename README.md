@@ -7,8 +7,8 @@
 ---
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="
+<br>
+
 <a href="https://www.linkedin.com/in/youssef-a-65248b1b6/">
   <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
@@ -18,8 +18,6 @@
 <a href="mailto:youssefagra3@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-</p>
-
 
 
 <h3 align="left">Languages-Frameworks-Tools ⚒️ : </h3>
