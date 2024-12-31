@@ -27,7 +27,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,c,cpp,php,mysql,laravel,java,spring,vscode,git,github,dotnet,linux,androidstudio,firebase,eclipse,notion" />
   </a>
 </p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefagra&show_icons=true&locale=en&layout=compact" alt="youssefagra" /></p>
