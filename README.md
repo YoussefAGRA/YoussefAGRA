@@ -29,8 +29,6 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ---
 
-## 🛠️ **Languages, Frameworks, and Tools**  
-
 ### 🚀 **Programming Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,php,java" alt="Programming Languages" />
