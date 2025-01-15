@@ -31,7 +31,7 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ### 🚀 **Programming Languages**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,php,java" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,c,cpp,php,java" alt="Programming Languages" />
 </p>
 
 ### 🖼️ **Frameworks**  
@@ -42,6 +42,11 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 ### 💾 **Databases**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+</p>
+
+## 🌐 **Web Development**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,laravel,spring,react" alt="Web Development" />
 </p>
 
 ### 📱 **Mobile Development**  
