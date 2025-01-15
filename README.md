@@ -21,9 +21,36 @@
 
 
 <h3 align="left">Languages-Frameworks-Tools ⚒️ : </h3>
+<h3 align="left">Programming Languages : </h3>
 <br>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,c,cpp,php,mysql,laravel,java,spring,vscode,git,github,dotnet,linux,androidstudio,firebase,eclipse,notion" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,c,cpp,php,mysql,laravel,java,spring,vscode,git,github,dotnet,linux,androidstudio,firebase,eclipse,notion" />
+  </a>
+</p>
+
+<br>
+<h3 align="left">Frameworks : </h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,spring,dotnet" />
+  </a>
+</p>
+
+<br>
+<h3 align="left">DataBases : </h3>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<br>
+<h3 align="left">Mobile Development : </h3>
+<br>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,androidstudio,firebase" />
   </a>
 </p>
