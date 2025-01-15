@@ -29,6 +29,8 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ---
 
+## 🛠️ **Skills and Tools**  
+
 ### 🚀 **Programming Languages**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,c,cpp,php,java" alt="Programming Languages" />
@@ -44,15 +46,21 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
   <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
 </p>
 
+---
+
 ## 🌐 **Web Development**  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,laravel,spring,react" alt="Web Development" />
 </p>
 
-### 📱 **Mobile Development**  
+---
+
+## 📱 **Mobile Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,react" alt="Mobile Development" />
 </p>
+
+---
 
 ### 🔧 **Development Tools**  
 <p align="left">
@@ -62,9 +70,9 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 ---
 
 ## 🌟 **Currently Working On**  
-- 🌐 Building dynamic and interactive web applications.  
-- 📱 Developing mobile applications with **Android Studio**.  
-- 🛠️ Exploring modern frameworks like **Spring** and **Laravel**.  
+- 🌐 Building dynamic and interactive web applications using modern frameworks like **Spring**, **Laravel**, and **React**.  
+- 📱 Developing mobile applications with **Android Studio** and **React Native**.  
+- 🛠️ Enhancing my skills in **scalable backend development** with **Spring Boot**.  
 
 ---
 
