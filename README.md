@@ -71,8 +71,8 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ## 🌟 **Currently Working On**  
 - 🌐 Building dynamic and interactive web applications using modern frameworks like **Spring**, **Laravel**, and **React**.  
-- 📱 Developing mobile applications with **Android Studio** and **React Native**.  
-- 🛠️ Enhancing my skills in **scalable backend development** with **Spring Boot**.  
+- 📱 Developing mobile applications with **Android Studio**.  
+- 🛠️ Learning **React** for frontend development and **Node.js** for scalable backend solutions.  
 
 ---
 
