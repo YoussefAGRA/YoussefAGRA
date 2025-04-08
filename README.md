@@ -6,7 +6,7 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ---
 
-## 🌟 **About Me**  
+## 🌟 **About Me**    
 - 💻 **Passionate about technology and innovation.**  
 - 🤝 **Teamwork enthusiast and collaborative projects advocate.**  
 - 📚 Constant learner, always keeping up with **cutting-edge trends**.  
@@ -46,21 +46,22 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ## 🌐 **Web Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,laravel,spring,react" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,laravel,spring" alt="Web Development" />
 </p>
+
 
 ---
 
 ## 📱 **Mobile Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,firebase,react" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,java,react" alt="Mobile Development" />
 </p>
 
 ---
 
-### 💾 **Databases**  
+### 💾 **Databases & BackEnd**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,firebase,dotnet," alt="Databases" />
 </p>
 
 ---
