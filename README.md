@@ -52,7 +52,6 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" alt="Mobile" />
 </p>
----
 
 ### 💾 **Databases**  
 <p align="left">
