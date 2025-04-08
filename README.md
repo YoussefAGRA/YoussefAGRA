@@ -36,32 +36,27 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
   <img src="https://skillicons.dev/icons?i=javascript,c,cpp,php,python,java" alt="Programming Languages" />
 </p>
 
-### 🖼️ **Frameworks**  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap,laravel,spring,dotnet" alt="Frameworks" />
-</p>
-
-
 ---
 
-## 🌐 **Web Development**  
+### 🌐 **Frontend Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,laravel,spring" alt="Web Development" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" alt="Frontend" />
 </p>
 
-
----
-
-## 📱 **Mobile Development**  
+### ⚙️ **Backend Development**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,java,react" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend" />
 </p>
 
+### 📱 **Mobile Development**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" alt="Mobile" />
+</p>
 ---
 
-### 💾 **Databases & BackEnd**  
+### 💾 **Databases**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle,firebase,dotnet," alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases" />
 </p>
 
 ---
