@@ -62,7 +62,7 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ### 🔧 **Development Tools**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse,notion,linux" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse,notion,linux,postman" alt="Development Tools" />
 </p>
 
 ---
