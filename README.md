@@ -55,7 +55,7 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ### 💾 **Databases**  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" alt="Databases" />
 </p>
 
 ---
