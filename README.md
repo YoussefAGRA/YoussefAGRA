@@ -1,20 +1,22 @@
-# 👋 Hello, I'm Youssef AGRA !  
+# 👋 Hello, I'm Youssef AGRA  
 
-### 🎓 **Web & Mobile Application Development Student**  
+### 🎓 Computer Engineering Student | EMSI Rabat  
+### 💻 Laureate of EST Nador (DUT in Web & Mobile Development)
 
-I am a passionate and dedicated student specializing in **Web and Mobile Application Development**. My focus is on creating **efficient**, **scalable**, and **user-friendly applications** using modern tools and technologies. I strive to constantly improve my skills and stay updated with the latest trends in technology.  
-
----
-
-## 🌟 **About Me**    
-- 💻 **Passionate about technology and innovation.**  
-- 🤝 **Teamwork enthusiast and collaborative projects advocate.**  
-- 📚 Constant learner, always keeping up with **cutting-edge trends**.  
-- ⚡ Actively building my skills in **web and mobile development** to contribute to innovative projects.  
+I am a motivated and ambitious Computer Engineering student passionate about **technology**, **innovation**, and **building impactful digital solutions**.  
+With a strong background in web and mobile development, I aim to create efficient, reliable, and user-focused applications while constantly improving my skills.
 
 ---
 
-## 📫 **Connect with Me**  
+## 🌟 About Me  
+- 💡 Passionate about software engineering and digital innovation.  
+- 🤝 Teamwork enthusiast with strong collaboration skills.  
+- 📚 Continuously learning to stay up-to-date with modern technologies.  
+- 🚀 Interested in web development, mobile applications, and scalable software systems.  
+
+---
+
+## 📫 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/youssef-a-65248b1b6/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
@@ -29,49 +31,49 @@ I am a passionate and dedicated student specializing in **Web and Mobile Applica
 
 ---
 
-## 🛠️ **Skills and Tools**  
+## 🛠️ Skills & Tools  
 
-### 🚀 **Programming Languages**  
+### 🚀 Programming Languages  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,c,cpp,php,python,java" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,java,php,cpp,c,python" alt="Programming Languages" />
 </p>
 
 ---
 
-### 🌐 **Frontend Development**  
+### 🌐 Frontend Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs" alt="Frontend" />
 </p>
 
-### ⚙️ **Backend Development**  
+### ⚙️ Backend Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,spring" alt="Backend" />
 </p>
 
-### 📱 **Mobile Development**  
+### 📱 Mobile Development  
 <p align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio,react,flutter" alt="Mobile" />
 </p>
 
-### 💾 **Databases**  
+### 💾 Databases  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" alt="Databases" />
 </p>
 
 ---
 
-### 🔧 **Development Tools**  
+## 🔧 Development Tools  
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,eclipse,linux,postman" alt="Development Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,postman,eclipse" alt="Development Tools" />
 </p>
 
 ---
 
-## 🌟 **Currently Working On**  
-- 🌐 Building dynamic and interactive web applications using modern frameworks like **Spring**, **Laravel**, and **React**.  
-- 📱 Developing mobile applications with **Android Studio**.  
-- 🛠️ Learning **React** for frontend development and **Node.js** for scalable backend solutions.  
+## 📌 Currently Working On  
+- 🌐 Building dynamic web applications with **React**, **Node.js**, and **Spring Boot**.  
+- 📱 Creating mobile applications using **Android Studio (Java)**.  
+- 🛠️ Improving my skills in full-stack development and cloud technologies.  
 
 ---
 
-Feel free to connect with me if you'd like to collaborate or discuss exciting ideas! 🚀  
+⭐ *Feel free to reach out for collaborations, ideas, or exciting projects!*  
