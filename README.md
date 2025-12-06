@@ -69,11 +69,4 @@ With a strong background in web and mobile development, I aim to create efficien
 
 ---
 
-## 📌 Currently Working On  
-- 🌐 Building dynamic web applications with **React**, **Node.js**, and **Spring Boot**.  
-- 📱 Creating mobile applications using **Android Studio (Java)**.  
-- 🛠️ Improving my skills in full-stack development and cloud technologies.  
-
----
-
 ⭐ *Feel free to reach out for collaborations, ideas, or exciting projects!*  
