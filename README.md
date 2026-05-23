@@ -18,7 +18,7 @@ With a strong background in web and mobile development, I aim to create efficien
 
 ## 📫 Connect with Me  
 <p align="left">
-  <a href="https://www.linkedin.com/in/youssef-a-65248b1b6/">
+  <a href="https://www.linkedin.com/in/youssef-agra-65248b1b6/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://stackoverflow.com/users/29004267/youssef-agra">
